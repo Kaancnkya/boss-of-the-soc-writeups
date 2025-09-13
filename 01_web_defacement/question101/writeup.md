@@ -17,6 +17,8 @@ What is the likely IPv4 address of someone from the Po1s0n1vy group scanning imr
    ![Sourcetype overview](evidence/1.png)  
    ![Sourcetype listing](evidence/2.png)  
    ![Sourcetype listing continued](evidence/3.png)
+   ![Additional sourcetypes](evidence/4.png)  
+   ![Final sourcetype check](evidence/5.png)
 
 3. **Domain-specific search**  
    Query:  index=botsv1 sourcetype=fgt* “imreallynotbatman.com”
@@ -24,6 +26,7 @@ What is the likely IPv4 address of someone from the Po1s0n1vy group scanning imr
 Suspicious access logs were found. The field `srcip` highlighted **40.80.148.42**.  
 
 ![Domain search result](evidence/6.png)
+   ![Additional domain evidence](evidence/7.png)
 
 4. **SrcIP frequency analysis**  
 Compared to other IPs, **40.80.148.42** generated ~91% of all requests.  
