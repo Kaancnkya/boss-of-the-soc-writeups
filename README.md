@@ -9,7 +9,7 @@ This repo focuses on my **analysis process, screenshots, and conclusions**, rath
 ---
 
 ## 📂 Repository Structure
-
+ ``` 
 boss-of-the-soc-writeups/
 │
 ├── README.md                 # Project overvi
@@ -31,7 +31,9 @@ boss-of-the-soc-writeups/
 ├── …
 ├── question211/
 
----
+ ``` 
+
+
 
 ## ️ Tools & Technologies
 
@@ -39,15 +41,12 @@ boss-of-the-soc-writeups/
 - **Security Onion / SOC mindset**: investigative process
 - **Markdown + GitHub**: documentation, evidence tracking
 
----
 
 ## Purpose
 
 - Practice **incident investigation** with realistic datasets  
 - Build **SOC analyst skills** (log analysis, detection, threat hunting)  
 - Create a **portfolio-ready project** demonstrating practical cybersecurity experience  
-
----
 
 ## Next Steps
 
