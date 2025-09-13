@@ -12,18 +12,18 @@ This repo focuses on my **analysis process, screenshots, and conclusions**, rath
  ``` 
 boss-of-the-soc-writeups/
 │
-├── README.md                 # Project overvi
+├── README.md                 
 │
-├── 01_web_defacement/        # Scenario: Web Defacement investigation
-│   ├── scenario_overview.md   # Notes about scenario scope & objectives
-│   ├── question101/           # Each question = folder
-│   │   ├── evidence/          # Screenshots, supporting evidence
-│   │   └── writeup.md         # My analysis & findings
+├── 01_web_defacement/        
+│   ├── scenario_overview.md   
+│   ├── question101/           
+│   │   ├── evidence/          
+│   │   └── writeup.md        
 │   ├── question102/
 │   ├── …
 │   ├── question109/
 │
-└── 02_ransomware/            # Scenario: Ransomware investigation
+└── 02_ransomware/           
 ├── scenario_overview.md
 ├── question200/
 │   ├── evidence/
